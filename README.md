@@ -107,24 +107,24 @@ La aplicación está diseñada para trabajar con una API REST que debe proporcio
 
 ### Clientes
 
-- `GET /clientes` - Obtener todos los clientes
-- `POST /clientes` - Crear nuevo cliente
-- `PUT /clientes/:id` - Actualizar cliente
-- `DELETE /clientes/:id` - Eliminar cliente
+- `GET /client` - Obtener todos los clientes
+- `POST /client` - Crear nuevo cliente
+- `PUT /client/:id` - Actualizar cliente
+- `DELETE /client/:id` - Eliminar cliente
 
 ### Productos
 
-- `GET /productos` - Obtener todos los productos
-- `POST /productos` - Crear nuevo producto
-- `PUT /productos/:id` - Actualizar producto
-- `DELETE /productos/:id` - Eliminar producto
+- `GET /product` - Obtener todos los productos
+- `POST /product` - Crear nuevo producto
+- `PUT /product/:id` - Actualizar producto
+- `DELETE /product/:id` - Eliminar producto
 
 ### Ventas
 
-- `GET /ventas` - Obtener todas las ventas
-- `POST /ventas` - Crear nueva venta
-- `PUT /ventas/:id` - Actualizar venta
-- `DELETE /ventas/:id` - Eliminar venta
+- `GET /venta` - Obtener todas las ventas
+- `POST /venta` - Crear nueva venta
+- `PUT /venta/:id` - Actualizar venta
+- `DELETE /venta/:id` - Eliminar venta
 
 ## 📋 Estructura de Datos
 
