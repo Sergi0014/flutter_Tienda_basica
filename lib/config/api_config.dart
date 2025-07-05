@@ -12,7 +12,7 @@ class ApiConfig {
   static const String _deviceUrl = 'ip de tu pc:3000';
 
   // Configuración activa - USAR PRODUCCIÓN PARA ANDROID RELEASE
-  static const String baseUrl = _productionUrl; // ✅ USAR PARA DEPLOYMENT
+  static const String baseUrl = _productionUrl; //  USAR PARA DEPLOYMENT
   // static const String baseUrl = _emulatorUrl; // Para emulador Android desarrollo
   // static const String baseUrl = _localhostUrl; // Para desarrollo local
   // static const String baseUrl = _deviceUrl; // Para dispositivo físico desarrollo
